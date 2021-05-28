@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167542060",
+    "project_id": "covidhelp-4c8cf",
+    "storage_bucket": "covidhelp-4c8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167542060:android:d4b3c63bc7599a9f3c4089",
+        "android_client_info": {
+          "package_name": "com.taral.covid_help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167542060-vlcea57hbbh3n0v298u7k37stggppsm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgA7FkNvtGDk761o-Xkl9JQzHOVuQRq2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167542060-vlcea57hbbh3n0v298u7k37stggppsm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
